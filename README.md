@@ -55,7 +55,7 @@ a list of the many things we need to consider when starting a new project in JS
 ## Automated Deployment
 
 The motivation behind this list is Cory House and his talk at NebraskaJS September 2017 titled
-[The Reusable Javascript Revolution](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiw_qjc2tjWAhVpzVQKHaBeCLwQtwIIKDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWrbdNhPhkMM&usg=AOvVaw15pDHcULG_2VlENIYypYb3){:target="_blank"}.
+[The Reusable Javascript Revolution](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiw_qjc2tjWAhVpzVQKHaBeCLwQtwIIKDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWrbdNhPhkMM&usg=AOvVaw15pDHcULG_2VlENIYypYb3 "title" target="_blank").
 2008 He would throw a bunch of scripts tags into his main file. His workflow would was as follows...
 
 1. Search the Web
