@@ -2,56 +2,56 @@
 a list of the many things we need to consider when starting a new project in JS
 
 ## Editor
-*Which one?
-*Which plugins?
-*Use built-in terminal?
-*Editor Config
+* Which one?
+* Which plugins?
+* Use built-in terminal?
+* Editor Config
 ## Module Format
-*ES6 Modules, CommonJS
+* ES6 Modules, CommonJS
 ## HTML Generation
-*Minify?
-*Use plugin?
-*Inject prod only concerns?
-*Templating Language?
+* Minify?
+* Use plugin?
+* Inject prod only concerns?
+* Templating Language?
 ## Transpiling
-*Native ES or diff Language?
-*Use experimental features?
-*Which plugins?
-*Production vs. dev config?
+* Native ES or diff Language?
+* Use experimental features?
+* Which plugins?
+* Production vs. dev config?
 ## Bundler
-*Webpack, Browserify, Rollup?
+* Webpack, Browserify, Rollup?
 ## Linting
-*Which linter?
-*Enable which rules?
-*Warning or error?
-*Which plugins?
-*Use a preset?
+* Which linter?
+* Enable which rules?
+* Warning or error?
+* Which plugins?
+* Use a preset?
 ## Testing
-*Framework?
-*Assertion Library?
-*Helpers?
-*Test File Location?
-*File Naming?
-*What environment?
-*Mocking?
-*Code Coverage
-*Continuous Integration
+* Framework?
+* Assertion Library?
+* Helpers?
+* Test File Location?
+* File Naming?
+* What environment?
+* Mocking?
+* Code Coverage
+* Continuous Integration
 ## Project Structure
-*By file type or feature?
-*Centralize API?
-*Allow inline JS?
-*Extract to POJOs?
+* By file type or feature?
+* Centralize API?
+* Allow inline JS?
+* Extract to POJOs?
 ## HTTP
-*Library
-*Mock schema format
-*Mock data generation
-*Mock Server
+* Library
+* Mock schema format
+* Mock data generation
+* Mock Server
 ## Production Build
-*Minification
-*SourceMaps
-*Bundle Splitting
-*Error Logging
-*Cache busting
+* Minification
+* SourceMaps
+* Bundle Splitting
+* Error Logging
+* Cache busting
 ## Automated Deployment
 
 The motivation behind this list is Cory House and his talk at NebraskaJS September 2017 titled ["The Reusable Javascript Revolution"] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiw_qjc2tjWAhVpzVQKHaBeCLwQtwIIKDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWrbdNhPhkMM&usg=AOvVaw15pDHcULG_2VlENIYypYb3). 
